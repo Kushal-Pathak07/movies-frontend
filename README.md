@@ -43,11 +43,22 @@ The frontend consumes the following backend endpoints:
 
 
 ## Screenshots
+### Home page with default route for dsipalying list of movies
 ![Home page with default route for dsipalying list of movies](https://github.com/user-attachments/assets/144ac6e9-0ff3-4566-9893-2e0e56830f50)
+
+### List of all actors in /actors route
 ![List of all actors in /actors route](https://github.com/user-attachments/assets/5440a88f-015d-447c-aeb7-dece15f47380)
+
+### Modal for updating movie details
 ![Modal for updating movie details](https://github.com/user-attachments/assets/e40b98c7-c215-405a-86de-47fe0a9e85c1)
+
+### Updated movie details with success toast
 ![Updated movie details with success toast](https://github.com/user-attachments/assets/15cd1b89-c360-40b8-9f69-1b794dd197a4)
+
+### Search functionality with actor's name
 ![Search functionality with actor's name](https://github.com/user-attachments/assets/0b7e9a3a-266d-4db3-b104-2053817bcfc3)
+
+### Search funcationality with movie's title
 ![Search funcationality with movie's title](https://github.com/user-attachments/assets/f4a53295-c841-48a0-bb0e-dea878727374)
 
 
